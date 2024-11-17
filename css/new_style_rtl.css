@@ -1,0 +1,15 @@
+.product-list-item .product-list-item-info i {
+    transform: rotate(0deg);
+}
+.product-details-container .product-features-and-links .product-features ul li:before {
+    margin-right: 0;
+    margin-left: 1rem;
+    left: auto;
+    right: 0;
+}
+.accordion-head i {
+    float: left;
+}
+.product-sales-bar .product-sales-cta .product-sales-contact-links label {
+    margin: 0 15px 0 0;
+}
